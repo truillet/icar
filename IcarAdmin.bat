@@ -1,0 +1,1 @@
+java -cp .;./jar/icar-1.2.jar IcarAdmin
